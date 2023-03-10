@@ -1,0 +1,11 @@
+{
+  "name": "beige",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node-sass -w --output-style compressed -o build/css src/scss"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
